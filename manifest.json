@@ -1,15 +1,23 @@
 {
-  "name": "Alexis Salazar Diet",
+  "name": "NutriSystems Alexis",
   "short_name": "NutriApp",
+  "description": "Sistema de gestión nutricional técnica para Alexis Salazar",
   "start_url": "/nutri-app/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#0070f3",
   "icons": [
     {
-      "src": "https://via.placeholder.com/512",
+      "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
